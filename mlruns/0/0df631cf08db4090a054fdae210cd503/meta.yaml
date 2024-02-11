@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0df631cf08db4090a054fdae210cd503/artifacts
+end_time: 1707564381550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0df631cf08db4090a054fdae210cd503
+run_name: blushing-colt-3
+run_uuid: 0df631cf08db4090a054fdae210cd503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707564301273
+status: 3
+tags: []
+user_id: aapilot

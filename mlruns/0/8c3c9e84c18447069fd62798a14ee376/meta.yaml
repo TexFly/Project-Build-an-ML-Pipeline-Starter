@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8c3c9e84c18447069fd62798a14ee376/artifacts
+end_time: 1707606464319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c3c9e84c18447069fd62798a14ee376
+run_name: classy-grub-355
+run_uuid: 8c3c9e84c18447069fd62798a14ee376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707606461371
+status: 4
+tags: []
+user_id: aapilot

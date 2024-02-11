@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4bb00491b3e94329a28321b12d95de71/artifacts
+end_time: 1707569885473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bb00491b3e94329a28321b12d95de71
+run_name: agreeable-asp-343
+run_uuid: 4bb00491b3e94329a28321b12d95de71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707569882601
+status: 4
+tags: []
+user_id: aapilot

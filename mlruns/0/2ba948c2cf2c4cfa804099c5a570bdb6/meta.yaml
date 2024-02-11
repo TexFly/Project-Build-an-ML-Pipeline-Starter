@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2ba948c2cf2c4cfa804099c5a570bdb6/artifacts
+end_time: 1707560678172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ba948c2cf2c4cfa804099c5a570bdb6
+run_name: calm-pug-227
+run_uuid: 2ba948c2cf2c4cfa804099c5a570bdb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707560535564
+status: 3
+tags: []
+user_id: aapilot

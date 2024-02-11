@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/14202cef15454d9684f6693c348736ed/artifacts
+end_time: 1707527965886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14202cef15454d9684f6693c348736ed
+run_name: tasteful-hawk-915
+run_uuid: 14202cef15454d9684f6693c348736ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707527914072
+status: 3
+tags: []
+user_id: aapilot

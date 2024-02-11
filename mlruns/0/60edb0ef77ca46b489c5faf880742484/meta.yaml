@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/60edb0ef77ca46b489c5faf880742484/artifacts
+end_time: 1707564381752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60edb0ef77ca46b489c5faf880742484
+run_name: burly-shrike-246
+run_uuid: 60edb0ef77ca46b489c5faf880742484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707564121303
+status: 3
+tags: []
+user_id: aapilot

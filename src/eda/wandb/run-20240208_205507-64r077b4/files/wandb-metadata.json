@@ -1,0 +1,76 @@
+{
+    "os": "Linux-5.4.0-170-generic-x86_64-with-glibc2.31",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-02-09T01:55:07.596356",
+    "startedAt": "2024-02-09T01:55:07.114426",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "root": "/home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "host": "aapilot",
+    "username": "aapilot",
+    "executable": "/home/aapilot/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1875.1848749999995,
+        "min": 1600.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1919.385,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1880.656,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1863.591,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1876.98,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1839.969,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1926.835,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1891.023,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1803.04,
+            "min": 1600.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 915.8154449462891,
+        "used": 89.99550247192383
+    },
+    "memory": {
+        "total": 15.511051177978516
+    }
+}

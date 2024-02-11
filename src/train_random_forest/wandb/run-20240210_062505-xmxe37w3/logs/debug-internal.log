@@ -1,0 +1,231 @@
+2024-02-10 06:25:05,070 INFO    StreamThr :281995 [internal.py:wandb_internal():87] W&B internal server running at pid: 281995, started at: 2024-02-10 06:25:05.070115
+2024-02-10 06:25:05,071 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status
+2024-02-10 06:25:05,073 INFO    WriterThread:281995 [datastore.py:open_for_write():85] open: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/run-xmxe37w3.wandb
+2024-02-10 06:25:05,074 DEBUG   SenderThread:281995 [sender.py:send():334] send: header
+2024-02-10 06:25:05,084 DEBUG   SenderThread:281995 [sender.py:send():334] send: run
+2024-02-10 06:25:05,547 INFO    SenderThread:281995 [dir_watcher.py:__init__():216] watching files in: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files
+2024-02-10 06:25:05,547 INFO    SenderThread:281995 [sender.py:_start_run_threads():1065] run started: xmxe37w3 with start time 1707564305.069419
+2024-02-10 06:25:05,548 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: summary_record
+2024-02-10 06:25:05,548 INFO    SenderThread:281995 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-10 06:25:05,550 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: check_version
+2024-02-10 06:25:05,550 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: check_version
+2024-02-10 06:25:05,679 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: run_start
+2024-02-10 06:25:05,681 DEBUG   HandlerThread:281995 [system_info.py:__init__():31] System info init
+2024-02-10 06:25:05,681 DEBUG   HandlerThread:281995 [system_info.py:__init__():46] System info init done
+2024-02-10 06:25:05,682 INFO    HandlerThread:281995 [system_monitor.py:start():151] Starting system monitor
+2024-02-10 06:25:05,682 INFO    SystemMonitor:281995 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-02-10 06:25:05,682 INFO    HandlerThread:281995 [system_monitor.py:probe():172] Collecting system info
+2024-02-10 06:25:05,682 INFO    SystemMonitor:281995 [interfaces.py:start():168] Started cpu
+2024-02-10 06:25:05,684 INFO    SystemMonitor:281995 [interfaces.py:start():168] Started disk
+2024-02-10 06:25:05,684 INFO    SystemMonitor:281995 [interfaces.py:start():168] Started memory
+2024-02-10 06:25:05,685 INFO    SystemMonitor:281995 [interfaces.py:start():168] Started network
+2024-02-10 06:25:05,711 DEBUG   HandlerThread:281995 [system_info.py:probe():195] Probing system
+2024-02-10 06:25:05,717 DEBUG   HandlerThread:281995 [system_info.py:_probe_git():180] Probing git
+2024-02-10 06:25:05,729 DEBUG   HandlerThread:281995 [system_info.py:_probe_git():188] Probing git done
+2024-02-10 06:25:05,729 DEBUG   HandlerThread:281995 [system_info.py:probe():241] Probing system done
+2024-02-10 06:25:05,729 DEBUG   HandlerThread:281995 [system_monitor.py:probe():181] {'os': 'Linux-5.4.0-170-generic-x86_64-with-glibc2.31', 'python': '3.9.18', 'heartbeatAt': '2024-02-10T11:25:05.712070', 'startedAt': '2024-02-10T11:25:05.055228', 'docker': None, 'cuda': None, 'args': ('--trainval_artifact', 'trainval_data.csv:latest', '--val_size', '0.2', '--random_seed', '42', '--stratify_by', 'neighbourhood_group', '--rf_config', '/home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/multirun/2024-02-10/06-22-03/3/rf_config.json', '--max_tfidf_features', '5', '--output_artifact', 'random_forest_export'), 'state': 'running', 'program': '/home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py', 'codePath': 'src/train_random_forest/run.py', 'git': {'remote': 'https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter', 'commit': '077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98'}, 'email': None, 'root': '/home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter', 'host': 'aapilot', 'username': 'aapilot', 'executable': '/home/aapilot/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python', 'cpu_count': 4, 'cpu_count_logical': 8, 'cpu_freq': {'current': 1655.093, 'min': 1600.0, 'max': 3900.0}, 'cpu_freq_per_core': [{'current': 1697.933, 'min': 1600.0, 'max': 3900.0}, {'current': 1603.435, 'min': 1600.0, 'max': 3900.0}, {'current': 1667.0, 'min': 1600.0, 'max': 3900.0}, {'current': 1625.493, 'min': 1600.0, 'max': 3900.0}, {'current': 1666.54, 'min': 1600.0, 'max': 3900.0}, {'current': 1604.62, 'min': 1600.0, 'max': 3900.0}, {'current': 1712.383, 'min': 1600.0, 'max': 3900.0}, {'current': 1663.34, 'min': 1600.0, 'max': 3900.0}], 'disk': {'total': 915.8154449462891, 'used': 93.10615921020508}, 'memory': {'total': 15.511051177978516}}
+2024-02-10 06:25:05,729 INFO    HandlerThread:281995 [system_monitor.py:probe():182] Finished collecting system info
+2024-02-10 06:25:05,729 INFO    HandlerThread:281995 [system_monitor.py:probe():185] Publishing system info
+2024-02-10 06:25:05,729 DEBUG   HandlerThread:281995 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-02-10 06:25:05,730 DEBUG   HandlerThread:281995 [system_info.py:_save_pip():67] Saving pip packages done
+2024-02-10 06:25:05,730 DEBUG   HandlerThread:281995 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-02-10 06:25:06,549 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_created():275] file/dir created: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/requirements.txt
+2024-02-10 06:25:06,550 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_created():275] file/dir created: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/conda-environment.yaml
+2024-02-10 06:25:06,550 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_created():275] file/dir created: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/wandb-summary.json
+2024-02-10 06:25:08,549 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/conda-environment.yaml
+2024-02-10 06:25:08,566 DEBUG   HandlerThread:281995 [system_info.py:_save_conda():86] Saving conda packages done
+2024-02-10 06:25:08,567 INFO    HandlerThread:281995 [system_monitor.py:probe():187] Finished publishing system info
+2024-02-10 06:25:08,570 DEBUG   SenderThread:281995 [sender.py:send():334] send: files
+2024-02-10 06:25:08,570 INFO    SenderThread:281995 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-02-10 06:25:08,578 DEBUG   SenderThread:281995 [sender.py:send():334] send: telemetry
+2024-02-10 06:25:08,578 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: stop_status
+2024-02-10 06:25:08,579 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: stop_status
+2024-02-10 06:25:08,753 DEBUG   SenderThread:281995 [sender.py:send():334] send: config
+2024-02-10 06:25:08,754 DEBUG   SenderThread:281995 [sender.py:send():334] send: config
+2024-02-10 06:25:08,983 INFO    Thread-17 :281995 [upload_job.py:push():143] Uploaded file /tmp/tmpi6_b2c8gwandb/gvd6ebef-wandb-metadata.json
+2024-02-10 06:25:09,083 DEBUG   SenderThread:281995 [sender.py:send():334] send: use_artifact
+2024-02-10 06:25:09,549 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_created():275] file/dir created: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/wandb-metadata.json
+2024-02-10 06:25:09,549 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_created():275] file/dir created: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/output.log
+2024-02-10 06:25:10,372 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:11,549 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/output.log
+2024-02-10 06:25:15,373 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:20,374 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:23,576 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:25:25,375 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:28,576 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:25:30,376 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:33,577 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:25:35,382 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:35,557 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/config.yaml
+2024-02-10 06:25:38,578 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:25:40,502 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:43,578 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:25:45,503 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:48,579 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:25:50,503 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:53,579 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:25:55,504 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:25:58,580 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:26:00,505 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:26:03,581 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:26:05,506 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:26:05,685 DEBUG   SystemMonitor:281995 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-02-10 06:26:05,686 DEBUG   SenderThread:281995 [sender.py:send():334] send: stats
+2024-02-10 06:26:08,581 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:26:11,357 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:26:11,574 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/output.log
+2024-02-10 06:26:12,833 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: log_artifact
+2024-02-10 06:26:12,833 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: log_artifact
+2024-02-10 06:26:13,416 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: partial_history
+2024-02-10 06:26:13,493 INFO    Thread-20 :281995 [upload_job.py:push():98] Skipped uploading /home/aapilot/.local/share/wandb/artifacts/staging/tmpx1p9eb23
+2024-02-10 06:26:13,493 INFO    Thread-21 :281995 [upload_job.py:push():98] Skipped uploading /home/aapilot/.local/share/wandb/artifacts/staging/tmpgk5fkluq
+2024-02-10 06:26:13,493 INFO    Thread-23 :281995 [upload_job.py:push():98] Skipped uploading /home/aapilot/.local/share/wandb/artifacts/staging/tmpcp54u728
+2024-02-10 06:26:13,493 INFO    Thread-24 :281995 [upload_job.py:push():98] Skipped uploading /home/aapilot/.local/share/wandb/artifacts/staging/tmpjfrbuaou
+2024-02-10 06:26:13,576 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/output.log
+2024-02-10 06:26:13,576 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_created():275] file/dir created: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/media/images/feature_importance_0_30f4d771c066344578e1.png
+2024-02-10 06:26:13,576 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_created():275] file/dir created: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/media
+2024-02-10 06:26:13,577 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_created():275] file/dir created: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/media/images
+2024-02-10 06:26:13,776 INFO    Thread-19 :281995 [upload_job.py:push():101] Uploaded file /home/aapilot/.local/share/wandb/artifacts/staging/tmpuvn0y14f
+2024-02-10 06:26:14,000 INFO    Thread-25 :281995 [upload_job.py:push():143] Uploaded file /tmp/tmpi6_b2c8gwandb/61vrxjx9-media/images/feature_importance_0_30f4d771c066344578e1.png
+2024-02-10 06:26:14,426 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: poll_exit
+2024-02-10 06:26:15,451 INFO    Thread-22 :281995 [upload_job.py:push():101] Uploaded file /home/aapilot/.local/share/wandb/artifacts/staging/tmpze6n97dw
+2024-02-10 06:26:16,111 INFO    SenderThread:281995 [sender.py:send_request_log_artifact():1379] logged artifact random_forest_export - {'id': 'QXJ0aWZhY3Q6NzE4OTAwNjAw', 'digest': '2b914cecae6f76ea5dfaf5420b4a14f1', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEzODcyMzIzMA==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NzE4OTAwMDE0', 'versionIndex': 2}}, 'version': 'latest'}
+2024-02-10 06:26:16,112 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: summary_record
+2024-02-10 06:26:16,115 INFO    SenderThread:281995 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-10 06:26:16,116 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: summary_record
+2024-02-10 06:26:16,116 INFO    SenderThread:281995 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-10 06:26:16,116 DEBUG   SenderThread:281995 [sender.py:send():334] send: files
+2024-02-10 06:26:16,116 INFO    SenderThread:281995 [sender.py:_save_file():1319] saving file media/images/feature_importance_0_30f4d771c066344578e1.png with policy now
+2024-02-10 06:26:16,117 DEBUG   SenderThread:281995 [sender.py:send():334] send: history
+2024-02-10 06:26:16,117 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: summary_record
+2024-02-10 06:26:16,117 INFO    SenderThread:281995 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-10 06:26:16,117 DEBUG   SenderThread:281995 [sender.py:send():334] send: exit
+2024-02-10 06:26:16,117 INFO    SenderThread:281995 [sender.py:send_exit():557] handling exit code: 0
+2024-02-10 06:26:16,117 INFO    SenderThread:281995 [sender.py:send_exit():559] handling runtime: 67
+2024-02-10 06:26:16,118 INFO    SenderThread:281995 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-10 06:26:16,118 INFO    SenderThread:281995 [sender.py:send_exit():565] send defer
+2024-02-10 06:26:16,118 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: poll_exit
+2024-02-10 06:26:16,118 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:16,118 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 0
+2024-02-10 06:26:16,119 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:16,124 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 0
+2024-02-10 06:26:16,124 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 1
+2024-02-10 06:26:16,124 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:16,125 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 1
+2024-02-10 06:26:16,125 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:16,125 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 1
+2024-02-10 06:26:16,125 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 2
+2024-02-10 06:26:16,126 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:16,126 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 2
+2024-02-10 06:26:16,126 INFO    HandlerThread:281995 [system_monitor.py:finish():161] Stopping system monitor
+2024-02-10 06:26:16,126 DEBUG   SystemMonitor:281995 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2024-02-10 06:26:16,127 DEBUG   SystemMonitor:281995 [system_monitor.py:_start():141] Publishing last batch of metrics
+2024-02-10 06:26:16,128 INFO    HandlerThread:281995 [interfaces.py:finish():175] Joined cpu
+2024-02-10 06:26:16,128 INFO    HandlerThread:281995 [interfaces.py:finish():175] Joined disk
+2024-02-10 06:26:16,128 INFO    HandlerThread:281995 [interfaces.py:finish():175] Joined memory
+2024-02-10 06:26:16,128 INFO    HandlerThread:281995 [interfaces.py:finish():175] Joined network
+2024-02-10 06:26:16,129 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:16,129 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 2
+2024-02-10 06:26:16,129 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 3
+2024-02-10 06:26:16,129 DEBUG   SenderThread:281995 [sender.py:send():334] send: stats
+2024-02-10 06:26:16,129 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:16,130 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 3
+2024-02-10 06:26:16,130 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:16,130 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 3
+2024-02-10 06:26:16,130 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 4
+2024-02-10 06:26:16,130 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:16,130 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 4
+2024-02-10 06:26:16,131 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:16,131 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 4
+2024-02-10 06:26:16,131 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 5
+2024-02-10 06:26:16,131 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:16,131 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 5
+2024-02-10 06:26:16,132 DEBUG   SenderThread:281995 [sender.py:send():334] send: summary
+2024-02-10 06:26:16,132 INFO    SenderThread:281995 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-10 06:26:16,133 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:16,133 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 5
+2024-02-10 06:26:16,133 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 6
+2024-02-10 06:26:16,133 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:16,133 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 6
+2024-02-10 06:26:16,133 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:16,133 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 6
+2024-02-10 06:26:16,134 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 7
+2024-02-10 06:26:16,134 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: status_report
+2024-02-10 06:26:16,134 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:16,134 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 7
+2024-02-10 06:26:16,135 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:16,135 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 7
+2024-02-10 06:26:16,577 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/wandb-summary.json
+2024-02-10 06:26:16,592 INFO    Thread-26 :281995 [upload_job.py:push():143] Uploaded file /tmp/tmpi6_b2c8gwandb/soeh5u7s-media/images/feature_importance_0_30f4d771c066344578e1.png
+2024-02-10 06:26:17,430 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 8
+2024-02-10 06:26:17,430 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:17,430 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 8
+2024-02-10 06:26:17,431 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:17,431 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 8
+2024-02-10 06:26:17,478 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 9
+2024-02-10 06:26:17,479 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:17,479 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 9
+2024-02-10 06:26:17,480 DEBUG   SenderThread:281995 [sender.py:send():334] send: artifact
+2024-02-10 06:26:17,584 INFO    Thread-14 :281995 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/output.log
+2024-02-10 06:26:18,043 INFO    SenderThread:281995 [sender.py:send_artifact():1415] sent artifact job-https___github.com_udacity_Project-Build-an-ML-Pipeline-Starter_src_train_random_forest_run.py - {'id': 'QXJ0aWZhY3Q6NzE4ODk5MTY2', 'digest': '67e2ea17ae56cfb4beda4459523fb8f0', 'state': 'COMMITTED', 'aliases': [{'artifactCollectionName': 'job-https___github.com_udacity_Project-Build-an-ML-Pipeline-Starter_src_train_random_forest_run.py', 'alias': 'v1'}], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEzODcyMjA5Ng==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NzE4ODk5MTY2', 'versionIndex': 1}}, 'version': 'v1'}
+2024-02-10 06:26:18,044 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:18,044 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 9
+2024-02-10 06:26:18,044 INFO    SenderThread:281995 [dir_watcher.py:finish():362] shutting down directory watcher
+2024-02-10 06:26:18,585 INFO    SenderThread:281995 [dir_watcher.py:finish():392] scan: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files
+2024-02-10 06:26:18,586 INFO    SenderThread:281995 [dir_watcher.py:finish():406] scan save: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/wandb-summary.json wandb-summary.json
+2024-02-10 06:26:18,586 INFO    SenderThread:281995 [dir_watcher.py:finish():406] scan save: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/wandb-metadata.json wandb-metadata.json
+2024-02-10 06:26:18,586 INFO    SenderThread:281995 [dir_watcher.py:finish():406] scan save: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/conda-environment.yaml conda-environment.yaml
+2024-02-10 06:26:18,591 INFO    SenderThread:281995 [dir_watcher.py:finish():406] scan save: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/config.yaml config.yaml
+2024-02-10 06:26:18,596 INFO    SenderThread:281995 [dir_watcher.py:finish():406] scan save: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/requirements.txt requirements.txt
+2024-02-10 06:26:18,597 INFO    SenderThread:281995 [dir_watcher.py:finish():406] scan save: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/output.log output.log
+2024-02-10 06:26:18,609 INFO    SenderThread:281995 [dir_watcher.py:finish():406] scan save: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/media/images/feature_importance_0_30f4d771c066344578e1.png media/images/feature_importance_0_30f4d771c066344578e1.png
+2024-02-10 06:26:18,610 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 10
+2024-02-10 06:26:18,610 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:18,610 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 10
+2024-02-10 06:26:18,617 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:18,617 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 10
+2024-02-10 06:26:18,617 INFO    SenderThread:281995 [file_pusher.py:finish():160] shutting down file pusher
+2024-02-10 06:26:19,013 INFO    Thread-28 :281995 [upload_job.py:push():143] Uploaded file /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/conda-environment.yaml
+2024-02-10 06:26:19,027 INFO    Thread-30 :281995 [upload_job.py:push():143] Uploaded file /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/requirements.txt
+2024-02-10 06:26:19,030 INFO    Thread-31 :281995 [upload_job.py:push():143] Uploaded file /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/output.log
+2024-02-10 06:26:19,061 INFO    Thread-29 :281995 [upload_job.py:push():143] Uploaded file /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/config.yaml
+2024-02-10 06:26:19,085 INFO    Thread-27 :281995 [upload_job.py:push():143] Uploaded file /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/files/wandb-summary.json
+2024-02-10 06:26:19,285 INFO    Thread-13 :281995 [sender.py:transition_state():585] send defer: 11
+2024-02-10 06:26:19,287 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:19,287 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 11
+2024-02-10 06:26:19,287 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:19,287 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 11
+2024-02-10 06:26:19,288 INFO    SenderThread:281995 [file_pusher.py:join():165] waiting for file pusher
+2024-02-10 06:26:19,288 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 12
+2024-02-10 06:26:19,288 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:19,288 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 12
+2024-02-10 06:26:19,288 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:19,289 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 12
+2024-02-10 06:26:19,429 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-10 06:26:19,482 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 13
+2024-02-10 06:26:19,482 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:19,482 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 13
+2024-02-10 06:26:19,483 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:19,483 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 13
+2024-02-10 06:26:19,483 INFO    SenderThread:281995 [sender.py:transition_state():585] send defer: 14
+2024-02-10 06:26:19,484 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: defer
+2024-02-10 06:26:19,484 INFO    HandlerThread:281995 [handler.py:handle_request_defer():170] handle defer: 14
+2024-02-10 06:26:19,484 DEBUG   SenderThread:281995 [sender.py:send():334] send: final
+2024-02-10 06:26:19,485 DEBUG   SenderThread:281995 [sender.py:send():334] send: footer
+2024-02-10 06:26:19,485 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: defer
+2024-02-10 06:26:19,485 INFO    SenderThread:281995 [sender.py:send_request_defer():581] handle sender defer: 14
+2024-02-10 06:26:19,486 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: poll_exit
+2024-02-10 06:26:19,487 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: poll_exit
+2024-02-10 06:26:19,487 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: server_info
+2024-02-10 06:26:19,488 DEBUG   SenderThread:281995 [sender.py:send_request():361] send_request: server_info
+2024-02-10 06:26:19,493 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: get_summary
+2024-02-10 06:26:19,493 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: sampled_history
+2024-02-10 06:26:19,584 INFO    MainThread:281995 [wandb_run.py:_footer_history_summary_info():3427] rendering history
+2024-02-10 06:26:19,584 INFO    MainThread:281995 [wandb_run.py:_footer_history_summary_info():3459] rendering summary
+2024-02-10 06:26:19,585 INFO    MainThread:281995 [wandb_run.py:_footer_sync_info():3383] logging synced files
+2024-02-10 06:26:19,585 DEBUG   HandlerThread:281995 [handler.py:handle_request():144] handle_request: shutdown
+2024-02-10 06:26:19,586 INFO    HandlerThread:281995 [handler.py:finish():841] shutting down handler
+2024-02-10 06:26:20,488 INFO    WriterThread:281995 [datastore.py:close():299] close: /home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/wandb/run-20240210_062505-xmxe37w3/run-xmxe37w3.wandb
+2024-02-10 06:26:20,584 INFO    SenderThread:281995 [sender.py:finish():1491] shutting down sender
+2024-02-10 06:26:20,584 INFO    SenderThread:281995 [file_pusher.py:finish():160] shutting down file pusher
+2024-02-10 06:26:20,584 INFO    SenderThread:281995 [file_pusher.py:join():165] waiting for file pusher

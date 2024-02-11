@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/30112988c541495b8e11eb235ec48323/artifacts
+end_time: 1707396361835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30112988c541495b8e11eb235ec48323
+run_name: peaceful-penguin-871
+run_uuid: 30112988c541495b8e11eb235ec48323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707396249114
+status: 3
+tags: []
+user_id: aapilot

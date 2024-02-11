@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a2c287c0eaf64d979bb4ea33f9c813ef/artifacts
+end_time: 1707595130964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2c287c0eaf64d979bb4ea33f9c813ef
+run_name: salty-shark-462
+run_uuid: a2c287c0eaf64d979bb4ea33f9c813ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707595128070
+status: 4
+tags: []
+user_id: aapilot

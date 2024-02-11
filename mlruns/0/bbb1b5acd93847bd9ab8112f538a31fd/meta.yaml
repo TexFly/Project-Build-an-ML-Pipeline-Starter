@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bbb1b5acd93847bd9ab8112f538a31fd/artifacts
+end_time: 1707569403840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbb1b5acd93847bd9ab8112f538a31fd
+run_name: painted-ox-931
+run_uuid: bbb1b5acd93847bd9ab8112f538a31fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707569400798
+status: 4
+tags: []
+user_id: aapilot

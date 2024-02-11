@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b135dc36c56144e9a441ef06323a23dc/artifacts
+end_time: 1707613450361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b135dc36c56144e9a441ef06323a23dc
+run_name: secretive-pig-704
+run_uuid: b135dc36c56144e9a441ef06323a23dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707613447469
+status: 4
+tags: []
+user_id: aapilot

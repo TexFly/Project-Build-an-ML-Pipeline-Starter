@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7bdc28fd7a674b3a99035633476b3f97/artifacts
+end_time: 1707560677971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bdc28fd7a674b3a99035633476b3f97
+run_name: crawling-flea-870
+run_uuid: 7bdc28fd7a674b3a99035633476b3f97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707560538152
+status: 3
+tags: []
+user_id: aapilot

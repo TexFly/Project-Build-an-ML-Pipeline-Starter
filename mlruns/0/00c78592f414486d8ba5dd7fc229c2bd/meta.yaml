@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/00c78592f414486d8ba5dd7fc229c2bd/artifacts
+end_time: 1707527099355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c78592f414486d8ba5dd7fc229c2bd
+run_name: honorable-mare-672
+run_uuid: 00c78592f414486d8ba5dd7fc229c2bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707527026803
+status: 3
+tags: []
+user_id: aapilot
