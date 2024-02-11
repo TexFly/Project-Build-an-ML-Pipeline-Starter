@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dfac00cabcfe4209a237207057f86238/artifacts
+end_time: 1707665775877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfac00cabcfe4209a237207057f86238
+run_name: enchanting-cod-523
+run_uuid: dfac00cabcfe4209a237207057f86238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707665763465
+status: 3
+tags: []
+user_id: aapilot

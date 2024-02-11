@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9802a9eac9ee4cebb415646aa9483d2a/artifacts
+end_time: 1707664321374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9802a9eac9ee4cebb415646aa9483d2a
+run_name: rogue-sow-753
+run_uuid: 9802a9eac9ee4cebb415646aa9483d2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707664305013
+status: 3
+tags: []
+user_id: aapilot

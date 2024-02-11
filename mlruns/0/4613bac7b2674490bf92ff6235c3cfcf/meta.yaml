@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4613bac7b2674490bf92ff6235c3cfcf/artifacts
+end_time: 1707664229577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4613bac7b2674490bf92ff6235c3cfcf
+run_name: skittish-mink-783
+run_uuid: 4613bac7b2674490bf92ff6235c3cfcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707664226352
+status: 4
+tags: []
+user_id: aapilot

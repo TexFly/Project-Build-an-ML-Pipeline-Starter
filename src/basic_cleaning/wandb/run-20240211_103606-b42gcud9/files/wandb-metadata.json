@@ -1,0 +1,90 @@
+{
+    "os": "Linux-5.4.0-170-generic-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-02-11T15:36:07.095812",
+    "startedAt": "2024-02-11T15:36:06.654783",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/aapilot/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/TexFly/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "88c2a27ec2f46cc135922a9b58ea60ceb73300ca"
+    },
+    "email": "alex@createandsolve.com",
+    "root": "/home/aapilot/Project-Build-an-ML-Pipeline-Starter",
+    "host": "aapilot",
+    "username": "aapilot",
+    "executable": "/home/aapilot/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2167.9635,
+        "min": 1600.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2154.206,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2095.442,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2050.286,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2154.776,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2098.399,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2387.961,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2253.596,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2149.042,
+            "min": 1600.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 915.8154449462891,
+        "used": 94.88833236694336
+    },
+    "memory": {
+        "total": 15.511051177978516
+    }
+}
