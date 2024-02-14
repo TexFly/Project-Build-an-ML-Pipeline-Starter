@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cf19b1ec38e24f2ab5c1a6d8d969156f/artifacts
+end_time: 1707907087923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf19b1ec38e24f2ab5c1a6d8d969156f
+run_name: sassy-skink-507
+run_uuid: cf19b1ec38e24f2ab5c1a6d8d969156f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907075790
+status: 3
+tags: []
+user_id: aapilot

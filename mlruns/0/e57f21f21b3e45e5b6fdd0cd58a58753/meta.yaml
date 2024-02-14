@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e57f21f21b3e45e5b6fdd0cd58a58753/artifacts
+end_time: 1707906386498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e57f21f21b3e45e5b6fdd0cd58a58753
+run_name: lyrical-croc-55
+run_uuid: e57f21f21b3e45e5b6fdd0cd58a58753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707906372946
+status: 3
+tags: []
+user_id: aapilot

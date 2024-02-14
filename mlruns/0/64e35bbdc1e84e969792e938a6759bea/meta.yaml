@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/64e35bbdc1e84e969792e938a6759bea/artifacts
+end_time: 1707907075766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64e35bbdc1e84e969792e938a6759bea
+run_name: mercurial-donkey-429
+run_uuid: 64e35bbdc1e84e969792e938a6759bea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907065583
+status: 3
+tags: []
+user_id: aapilot

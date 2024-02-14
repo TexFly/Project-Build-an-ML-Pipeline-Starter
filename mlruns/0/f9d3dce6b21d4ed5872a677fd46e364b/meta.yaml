@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f9d3dce6b21d4ed5872a677fd46e364b/artifacts
+end_time: 1707907065557
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9d3dce6b21d4ed5872a677fd46e364b
+run_name: monumental-bear-796
+run_uuid: f9d3dce6b21d4ed5872a677fd46e364b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907054247
+status: 3
+tags: []
+user_id: aapilot

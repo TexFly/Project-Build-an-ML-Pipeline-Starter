@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0a9bfd0075444dacadb464781b99eb68/artifacts
+end_time: 1707906431689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a9bfd0075444dacadb464781b99eb68
+run_name: sincere-mink-454
+run_uuid: 0a9bfd0075444dacadb464781b99eb68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707906408928
+status: 3
+tags: []
+user_id: aapilot

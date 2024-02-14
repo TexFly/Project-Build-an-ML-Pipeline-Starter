@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd61727970844aa9954a78322ba58228/artifacts
+end_time: 1707906408907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd61727970844aa9954a78322ba58228
+run_name: sneaky-cat-181
+run_uuid: dd61727970844aa9954a78322ba58228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707906400417
+status: 3
+tags: []
+user_id: aapilot

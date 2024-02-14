@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ef5e0c305b9446628c5ea151845fd79e/artifacts
+end_time: 1707906400400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef5e0c305b9446628c5ea151845fd79e
+run_name: rumbling-fowl-457
+run_uuid: ef5e0c305b9446628c5ea151845fd79e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707906386526
+status: 3
+tags: []
+user_id: aapilot

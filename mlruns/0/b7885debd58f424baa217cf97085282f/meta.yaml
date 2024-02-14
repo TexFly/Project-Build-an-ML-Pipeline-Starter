@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b7885debd58f424baa217cf97085282f/artifacts
+end_time: 1707907496407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7885debd58f424baa217cf97085282f
+run_name: clumsy-mule-898
+run_uuid: b7885debd58f424baa217cf97085282f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707907103569
+status: 3
+tags: []
+user_id: aapilot
