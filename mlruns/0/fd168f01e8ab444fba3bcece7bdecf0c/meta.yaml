@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fd168f01e8ab444fba3bcece7bdecf0c/artifacts
+end_time: 1707905953567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd168f01e8ab444fba3bcece7bdecf0c
+run_name: funny-elk-889
+run_uuid: fd168f01e8ab444fba3bcece7bdecf0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707905898775
+status: 4
+tags: []
+user_id: aapilot
