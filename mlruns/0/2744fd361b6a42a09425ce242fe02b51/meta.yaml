@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2744fd361b6a42a09425ce242fe02b51/artifacts
+end_time: 1707877008040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2744fd361b6a42a09425ce242fe02b51
+run_name: upbeat-newt-461
+run_uuid: 2744fd361b6a42a09425ce242fe02b51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707876959795
+status: 3
+tags: []
+user_id: aapilot

@@ -1,0 +1,6 @@
+2024-02-13 21:30:20,087 Downloading artifacts
+[34m[1mwandb[39m[22m:   6 of 6 files downloaded.
+2024-02-13 21:30:21,628 Loading model and performing inference on test set
+2024-02-13 21:30:21,835 Scoring
+2024-02-13 21:30:21,940 Score: 0.566209307681647
+2024-02-13 21:30:21,940 MAE: 33.193954222573005

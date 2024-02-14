@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/af7e077ad8734b089e2fb0d0197dbcee/artifacts
+end_time: 1707877082327
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af7e077ad8734b089e2fb0d0197dbcee
+run_name: amusing-shrimp-305
+run_uuid: af7e077ad8734b089e2fb0d0197dbcee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707877008230
+status: 3
+tags: []
+user_id: aapilot

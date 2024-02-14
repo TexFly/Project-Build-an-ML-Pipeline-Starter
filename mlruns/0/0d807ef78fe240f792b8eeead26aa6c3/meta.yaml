@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0d807ef78fe240f792b8eeead26aa6c3/artifacts
+end_time: 1707821237128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d807ef78fe240f792b8eeead26aa6c3
+run_name: gaudy-midge-471
+run_uuid: 0d807ef78fe240f792b8eeead26aa6c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707821234117
+status: 4
+tags: []
+user_id: aapilot

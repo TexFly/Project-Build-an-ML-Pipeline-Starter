@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c315fa7f8b2949ffb420b2ae17f56916/artifacts
+end_time: 1707877130595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c315fa7f8b2949ffb420b2ae17f56916
+run_name: suave-bass-313
+run_uuid: c315fa7f8b2949ffb420b2ae17f56916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707877082519
+status: 3
+tags: []
+user_id: aapilot
