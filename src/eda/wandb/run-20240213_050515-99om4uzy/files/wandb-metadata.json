@@ -1,0 +1,79 @@
+{
+    "os": "Linux-5.4.0-170-generic-x86_64-with-glibc2.31",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-02-13T10:05:15.644172",
+    "startedAt": "2024-02-13T10:05:15.216748",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "codePathLocal": null,
+    "root": "/home/aapilot/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/TexFly/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "dbb151cc2b263b0ef78d8f53f998a3a6e81f5c11"
+    },
+    "email": "alex@createandsolve.com",
+    "host": "aapilot",
+    "username": "aapilot",
+    "executable": "/home/aapilot/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1973.9589999999998,
+        "min": 1600.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2099.309,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2005.899,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1802.391,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2053.045,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2206.113,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2014.98,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1799.943,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1809.992,
+            "min": 1600.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 915.8154449462891,
+            "used": 96.98735809326172
+        }
+    },
+    "memory": {
+        "total": 15.511051177978516
+    }
+}

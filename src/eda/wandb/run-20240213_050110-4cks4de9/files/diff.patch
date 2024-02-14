@@ -1,0 +1,27 @@
+diff --git a/src/eda/wandb/debug-internal.log b/src/eda/wandb/debug-internal.log
+index 7c9ef6b..9e317e0 120000
+--- a/src/eda/wandb/debug-internal.log
++++ b/src/eda/wandb/debug-internal.log
+@@ -1 +1 @@
+-run-20240211_103246-lk3gi9v1/logs/debug-internal.log
+\ No newline at end of file
++run-20240213_050110-4cks4de9/logs/debug-internal.log
+\ No newline at end of file
+diff --git a/src/eda/wandb/debug.log b/src/eda/wandb/debug.log
+index 36487be..0652926 120000
+--- a/src/eda/wandb/debug.log
++++ b/src/eda/wandb/debug.log
+@@ -1 +1 @@
+-run-20240211_103246-lk3gi9v1/logs/debug.log
+\ No newline at end of file
++run-20240213_050110-4cks4de9/logs/debug.log
+\ No newline at end of file
+diff --git a/src/eda/wandb/latest-run b/src/eda/wandb/latest-run
+index 399cbed..f50571e 120000
+--- a/src/eda/wandb/latest-run
++++ b/src/eda/wandb/latest-run
+@@ -1 +1 @@
+-run-20240211_103246-lk3gi9v1
+\ No newline at end of file
++run-20240213_050110-4cks4de9
+\ No newline at end of file

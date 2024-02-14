@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0e596ce989b14df5bc455f85c612ee8d/artifacts
+end_time: 1707818354961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e596ce989b14df5bc455f85c612ee8d
+run_name: receptive-toad-749
+run_uuid: 0e596ce989b14df5bc455f85c612ee8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707818329714
+status: 3
+tags: []
+user_id: aapilot

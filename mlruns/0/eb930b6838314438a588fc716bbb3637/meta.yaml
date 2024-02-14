@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eb930b6838314438a588fc716bbb3637/artifacts
+end_time: 1707818883447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb930b6838314438a588fc716bbb3637
+run_name: righteous-ram-4
+run_uuid: eb930b6838314438a588fc716bbb3637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707818871047
+status: 3
+tags: []
+user_id: aapilot

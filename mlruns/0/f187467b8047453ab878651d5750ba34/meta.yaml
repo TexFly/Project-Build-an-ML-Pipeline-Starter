@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f187467b8047453ab878651d5750ba34/artifacts
+end_time: 1707819444011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f187467b8047453ab878651d5750ba34
+run_name: unruly-shoat-933
+run_uuid: f187467b8047453ab878651d5750ba34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707819423373
+status: 3
+tags: []
+user_id: aapilot

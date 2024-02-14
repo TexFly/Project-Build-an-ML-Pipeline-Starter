@@ -1,0 +1,76 @@
+{
+    "os": "Linux-5.4.0-170-generic-x86_64-with-glibc2.31",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-02-13T10:01:11.168097",
+    "startedAt": "2024-02-13T10:01:10.717947",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "src/eda/eda.ipynb",
+    "root": "/home/aapilot/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/TexFly/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "dbb151cc2b263b0ef78d8f53f998a3a6e81f5c11"
+    },
+    "email": "alex@createandsolve.com",
+    "host": "aapilot",
+    "username": "aapilot",
+    "executable": "/home/aapilot/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1803.0741250000003,
+        "min": 1600.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1764.967,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1741.457,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1969.72,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1745.029,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1980.458,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1741.386,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1768.905,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1712.671,
+            "min": 1600.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 915.8154449462891,
+        "used": 96.98689270019531
+    },
+    "memory": {
+        "total": 15.511051177978516
+    }
+}

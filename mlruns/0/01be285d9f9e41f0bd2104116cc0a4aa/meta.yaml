@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/01be285d9f9e41f0bd2104116cc0a4aa/artifacts
+end_time: 1707819443807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01be285d9f9e41f0bd2104116cc0a4aa
+run_name: selective-snail-699
+run_uuid: 01be285d9f9e41f0bd2104116cc0a4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707819425954
+status: 3
+tags: []
+user_id: aapilot

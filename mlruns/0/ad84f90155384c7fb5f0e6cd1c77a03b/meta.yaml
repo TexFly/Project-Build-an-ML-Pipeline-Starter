@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ad84f90155384c7fb5f0e6cd1c77a03b/artifacts
+end_time: 1707818355166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad84f90155384c7fb5f0e6cd1c77a03b
+run_name: big-cod-630
+run_uuid: ad84f90155384c7fb5f0e6cd1c77a03b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707818324842
+status: 3
+tags: []
+user_id: aapilot

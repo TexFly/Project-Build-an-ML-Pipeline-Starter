@@ -1,0 +1,84 @@
+{
+    "os": "Linux-5.4.0-170-generic-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-02-13T10:17:10.868394",
+    "startedAt": "2024-02-13T10:17:10.346258",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "clean_sample.csv:latest",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group"
+    ],
+    "state": "running",
+    "program": "/home/aapilot/Project-Build-an-ML-Pipeline-Starter/components/train_val_test_split/run.py",
+    "codePath": "components/train_val_test_split/run.py",
+    "git": {
+        "remote": "https://github.com/TexFly/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "dbb151cc2b263b0ef78d8f53f998a3a6e81f5c11"
+    },
+    "email": "alex@createandsolve.com",
+    "root": "/home/aapilot/Project-Build-an-ML-Pipeline-Starter",
+    "host": "aapilot",
+    "username": "aapilot",
+    "executable": "/home/aapilot/miniconda3/envs/mlflow-5ddd21c237065329cc13a6f432bada5f9175d4fc/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1639.267625,
+        "min": 1600.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1596.436,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1596.717,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1596.616,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1625.835,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1596.506,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1596.699,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1596.55,
+            "min": 1600.0,
+            "max": 3900.0
+        },
+        {
+            "current": 1908.782,
+            "min": 1600.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 915.8154449462891,
+        "used": 96.98705673217773
+    },
+    "memory": {
+        "total": 15.511051177978516
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8bebd191b2274a959a88b3a6dc6a3da2/artifacts
+end_time: 1707819339782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bebd191b2274a959a88b3a6dc6a3da2
+run_name: serious-mare-219
+run_uuid: 8bebd191b2274a959a88b3a6dc6a3da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707819326650
+status: 3
+tags: []
+user_id: aapilot

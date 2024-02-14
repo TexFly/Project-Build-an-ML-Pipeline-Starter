@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aapilot/Desktop/AlexMLops/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a9f88b34b9b342c3a265762f4baa0fe7/artifacts
+end_time: 1707820381264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9f88b34b9b342c3a265762f4baa0fe7
+run_name: unleashed-eel-859
+run_uuid: a9f88b34b9b342c3a265762f4baa0fe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707820335768
+status: 3
+tags: []
+user_id: aapilot
